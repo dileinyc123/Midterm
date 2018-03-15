@@ -1,0 +1,31 @@
+img{
+	border: 1px solid black;
+	padding-bottom: 30px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;  
+	width: 200px;
+	height: 200px;
+	float: right;
+}
+
+html,body{
+	font-family: sans-serif;
+}
+
+p{
+	font-size: 13px;
+	line-height: 140%;
+}
+
+h1{font-family: 'Playfair Display', serif;
+
+
+}
+
+.contents{
+	border: 1px solid black;
+	margin-right: 750px;
+	padding-left: 5px;
+
+}
